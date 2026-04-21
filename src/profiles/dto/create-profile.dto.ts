@@ -1,4 +1,4 @@
-export class CreateProfileDto{
-    name: String;
-    description: String
+export class CreateProfileDto {
+  name: String;
+  description: String;
 }
